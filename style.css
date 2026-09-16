@@ -183,7 +183,7 @@ th,td {
     text-overflow: ellipsis;
     white-space: normal;                      
     font-size: 13px;
-    color: var(--text-color);
+    color: black;
     margin: 30px auto;
     padding: 5px;
     text-align: center;
@@ -194,4 +194,8 @@ th,td {
 .text {
     padding:5px;
     margin: 10px;
+}
+
+.event-title {
+    color: black;
 }
